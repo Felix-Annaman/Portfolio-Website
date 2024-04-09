@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> FELIX ANNAMAN PORTFOLIO </title>
+</head>
+<body>
+    <header>
+        <h1> FELIX ANNAMAN</h1>
+        <link rel="stylesheet" href="style.css">
+        <nav>
+            <ul>
+                <li><a href="about.html"> <button><strong>About</strong></button></a></li>
+                <li><a href="portfolio.html"> <button><strong>Portfolio</strong></button></a></li>
+                <li><a href="contact.html"> <button><strong>Contact</strong></button></a></li>
+            </ul>
+        </nav>
+    </header>
+
+       
+</body>  
+
+    <footer>
+        <p>&copy; 2024 Felix Annaman . All rights reserved.</p>
+    </footer>
+
+
+</html>
