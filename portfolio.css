@@ -8,24 +8,22 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: wheat;
     color: #333;
     padding: 20px;
 }
 
-/* Container styles */
+
 .container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-/* Heading styles */
 h1 {
     text-align: center;
     margin-bottom: 20px;
 }
 
-/* Project styles */
 .project {
     background-color: #fff;
     border-radius: 5px;
@@ -50,7 +48,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* Link styles */
 a {
     color: #007bff;
     text-decoration: none;
